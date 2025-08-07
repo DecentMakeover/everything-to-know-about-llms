@@ -1,6 +1,6 @@
 ## Everything to Know About LLMs and Deep Learning: Curated Paper Lists and Roadmaps
 
-A practical, opinionated index of the most important research papers for modern deep learning. Covers Large Language Models (LLMs), transformers, NLP, and core computer vision topics with CNNs (classification, semantic segmentation, object detection), plus optimization, regularization, and learning-rate schedules. Each section includes a concise reading path from foundational works to state-of-the-art.
+A practical, opinionated index of the most important research papers for modern deep learning. Covers Large Language Models (LLMs), transformers, NLP, and core computer vision topics with CNNs (classification, semantic segmentation, object detection), plus optimization, regularization, and learning-rate schedules. Each section includes a concise reading path from foundational works to state-of-the-art. This repository was created while preparing for technical interviews to organize readings and deepen understanding of the material.
 
 ### Table of Contents
 - [CNNs for Classification](#cnns-for-classification)
